@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="911" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,8 +13,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="How Much Would you like to deposit?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="How Much Would you like to deposit?&lt;div&gt;(£100)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -38,8 +38,11 @@
             <mxPoint x="220" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="iJiD2MV02rnRHH4pifD3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Press Enter to Run" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-0" value="Is the deposit between £0 and £100?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="150" width="80" height="80" as="geometry" />
@@ -62,35 +65,66 @@
         <mxCell id="iJiD2MV02rnRHH4pifD3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-3" target="iJiD2MV02rnRHH4pifD3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJiD2MV02rnRHH4pifD3-3" value="The User is asked to enter how many&amp;nbsp; lines to bet on, min is 1 and max is 3.&lt;div&gt;Is the value 1-3?&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="500" width="110" height="110" as="geometry" />
+        <mxCell id="iJiD2MV02rnRHH4pifD3-3" value="The User is asked to enter how many&amp;nbsp; lines to bet on, min is 1 and max is 3.&lt;div&gt;Is the value 1-3?&lt;/div&gt;&lt;div&gt;(3 Lines)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="480" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-8" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJiD2MV02rnRHH4pifD3-10" value="Please enter how many lines you wish to bet, Minimum is 1 and max is 3." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="660" width="95" height="95" as="geometry" />
+        <mxCell id="iJiD2MV02rnRHH4pifD3-10" value="Please enter again how many lines you wish to bet, Minimum is 1 and max is 3." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="640" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-11" target="iJiD2MV02rnRHH4pifD3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-11" value="Has the user entered the required value, Between 1-3?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="660" width="100" height="100" as="geometry" />
+          <mxGeometry x="170" y="640" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="709.5" as="sourcePoint" />
-            <mxPoint x="390" y="710" as="targetPoint" />
+            <mxPoint x="300" y="682.5" as="sourcePoint" />
+            <mxPoint x="390" y="683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iJiD2MV02rnRHH4pifD3-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="840" width="100" height="100" as="geometry" />
+        <mxCell id="iJiD2MV02rnRHH4pifD3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-13" value="The user is asked how much do they want to bet on each line&lt;div&gt;(£25 on each line, total £75).&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="790" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-18" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-19" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="668" width="40" height="30" as="geometry" />
+          <mxGeometry x="320" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-13" target="iJiD2MV02rnRHH4pifD3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-13" target="iJiD2MV02rnRHH4pifD3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1010" as="targetPoint" />
+            <mxPoint x="220" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-21" target="iJiD2MV02rnRHH4pifD3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-21" value="The Program explains to the user, You have bet £25 on 3 lines, total bet is £75.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="930" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-28" value="If the user gets a row of 3 A&#39;s the bet multiplys by 5,B multiplys by 4, C bet Multiplys by 3 and D multiply&#39;s bet by 2" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="1060" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-31" value="If no lines have 3 matching symbols, bet is lost and balance displayed." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
