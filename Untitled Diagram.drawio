@@ -95,6 +95,9 @@
         <mxCell id="iJiD2MV02rnRHH4pifD3-28" value="If the user gets a row of 3 A&#39;s the bet multiplys by 5,B multiplys by 4, C bet Multiplys by 3 and D multiply&#39;s bet by 2" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1050" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iJiD2MV02rnRHH4pifD3-31" target="iJiD2MV02rnRHH4pifD3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-31" value="If no lines have 3 matching symbols, bet is lost and Remaining balance displayed to user." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1180" width="120" height="80" as="geometry" />
         </mxCell>
@@ -106,6 +109,9 @@
         </mxCell>
         <mxCell id="iJiD2MV02rnRHH4pifD3-38" value="Slot Machine displayed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="970" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJiD2MV02rnRHH4pifD3-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="1280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
